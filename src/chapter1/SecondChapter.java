@@ -4,5 +4,7 @@ public class SecondChapter {
     public static void main(String[] args) {
 
         System.out.println("second chapter");
+
+        System.out.println(" add onr thing");
     }
 }
