@@ -6,5 +6,7 @@ public class FirstChapter {
 
         System.out.println("my first chapter");
 
+        System.out.println("do some changing");
+
     }
 }
