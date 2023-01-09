@@ -6,5 +6,9 @@ public class SecondChapter {
         System.out.println("second chapter");
 
         System.out.println(" add onr thing");
+
+        System.out.println("one more change");
+
+        System.out.println("------------------------");
     }
 }
