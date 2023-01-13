@@ -8,5 +8,7 @@ public class FirstChapter {
 
         System.out.println("do some changing");
 
+        System.out.println("add");
+
     }
 }
