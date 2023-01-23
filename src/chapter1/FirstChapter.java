@@ -1,6 +1,6 @@
 package chapter1;
 
-public class FirstChapter {cd
+public class FirstChapter {
 
     public static void main(String[] args) {
 
